@@ -1,2 +1,3 @@
 # COE 420 - Software Engineering: Sprint_3
-This is my teammate and I's DiceRoller assignment
+DiceRoller is a fun and interactive project built for our COE 420 Software Engineering course.
+Developed with my teammate @simplyarfan, it simulates realistic dice rolls with visual feedback.
